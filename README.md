@@ -72,6 +72,4 @@ Alle Daten werden in der Datei gedaechtnis.json gespeichert.
 
 Achtung, Vault-Tec™ hat deine Daten im Blick!
 
-Python 3.x installieren
-
 Repository klonen:
